@@ -1,0 +1,13 @@
+:root {
+  --background-main: #fff7ed;        /* Soft warm cream */
+  --background-accent: #fef3c7;      /* Subtle yellow accent */
+  --card-bg: #fef9c3;                /* Gentle pastel for cards */
+  --primary-text: #8b5cf6;           /* Purple for titles & highlights */
+  --secondary-text: #ea580c;         /* Toasty orange for accents */
+  --border-accent: #fbbf24;          /* Gold for borders */
+  --button-bg: #fcd34d;              /* Yellow button */
+  --button-text: #78350f;            /* Deep brown for button text */
+  --room-shadow: 0 6px 32px #fbbf2480; /* Subtle gold glow */
+  --active-tab: #fde68a;             /* Soft yellow for active tab */
+  --inactive-tab: #fff;              /* White for inactive tabs */
+}
